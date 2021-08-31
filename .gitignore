@@ -1,6 +1,11 @@
 /public/hot
 /public/storage
 /storage/*.key
+<<<<<<< HEAD
+=======
+.env
+.env.backup
+>>>>>>> 50d645107aaa7d09492ad5e2de66ef5c2767e77b
 .phpunit.result.cache
 docker-compose.override.yml
 Homestead.json
